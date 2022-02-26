@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The birth, life and death of John Frank</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76746</idno>
+            <idno type="STC">Wing B2978C</idno>
+            <idno type="STC">ESTC R232599</idno>
+            <idno type="EEBO-CITATION">99898022</idno>
+            <idno type="PROQUEST">99898022</idno>
+            <idno type="VID">171019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2550:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The birth, life and death of John Frank</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for J. Deacon at the Angel in Guilt-spur-street without Newcate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>In black letter.</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frank, John, fl. 1682 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:171019:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE Birth, Life</hi> and <hi>Death OF JOHN FRANK,</hi>
+               <figure>
+                  <figDesc>depiction of a scene from the life of John Frank</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a scene from the life of John Frank</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a scene from the life of John Frank</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a scene from the life of John Frank</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a scene from the life of John Frank</figDesc>
+               </figure>
+            </p>
+            <p>Printed by <hi>I. M.</hi> for <hi>I. Deacon</hi> at the <hi>Angel</hi> in <hi>Guilt-ſpur-ſtreet</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:171019:2"/>
+            <pb facs="tcp:171019:2"/>
+            <p>THE Birth, Life <hi>and</hi> Death OF JOHN FRANK, And of the Pranks and Jeſts he play'd, though a meer Natural Fool.</p>
+            <p>READERS,</p>
+            <lg>
+               <l>Theſe pretty Jeſts you here will read,</l>
+               <l>Where from an Innocent indeed:</l>
+               <l>Such pretty Pranks were never known,</l>
+               <l>As oftentimes <hi>Iack Frank</hi> hath ſhown.</l>
+               <l>Some Men are fools only in ſhow,</l>
+               <l>But this (a fool) all men did know:</l>
+               <l>Belov'd he was of every one,</l>
+               <l>And when he dy'd there was great moan.</l>
+            </lg>
+            <lg>
+               <l>Poor <hi>Iack</hi> is dead, but he hath left behind.</l>
+               <l>A Character which will be borne in mind.</l>
+            </lg>
+            <p>Licenſed according to Order.</p>
+            <p>Prnted by <hi>I. M.</hi> for <hi>I. Deacon</hi> at the <hi>Angel</hi> in <hi>Guilt-ſpur-ſtreet</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171019:3"/>
+            <head>The Epiſtle to the READER.</head>
+            <p>
+               <hi>JOhn Frank,</hi> the reputed Son of <hi>Iohn Ward,</hi> was Born in <hi>Much Eaſton</hi> Pariſh in <hi>Eſſex,</hi> within three miles of <hi>Dun<g ref="char:EOLhyphen"/>mow:</hi> He had no Friends to take care of him his being a fool was the cauſe of his well being; for every one was in love with the ſport which he made, and the unex<g ref="char:EOLhyphen"/>pected anſwers which he would give, did much amaze all people. When he was grown to be of Mans ſtature, there was a worthy Knight who took him to keep, where he did many pretty and ſtrange pranks, he was a comely perſon, and had a good Complexi<g ref="char:EOLhyphen"/>on; his Hair of a dark flaxen: He was of a middle ſtature, and good countenance; if his Tongue had not betray'd his foolery; no one would ever think, but that he had been a Wiſe man.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171019:3"/>
+            <head>Here follows now ſome very pleaſant Stories of him.</head>
+            <p>THE Caterer, or Servant who bought the Proviſion into the Houſe, went one day to the Market, to buy ſome choice Fiſh for his Ma<g ref="char:EOLhyphen"/>ſters Dinner, and took <hi>Jack</hi> the Fool with him to bring it home; and ha<g ref="char:EOLhyphen"/>ving bought it, he put it into a Bas<g ref="char:EOLhyphen"/>ket, and gave it to the Fool, ſaying, <hi>Go home,</hi> Iack, <hi>quickly with the fiſh;</hi> Ay, ſays <hi>Jack,</hi> I will: ſo parting with the Fool, he went about ſome other buſineſs: Poor <hi>Jack</hi> inarched towards home, but by the way he meets with a Bay who had a Mag-pye upon his Fiſt, the Boy perceiving by his Ha<g ref="char:EOLhyphen"/>bit he was a Fool, asked him what he had in his Basket: Fiſth, ſays <hi>Jack?</hi> What Bird is that you have not, will you give it to me, ſaith <hi>Jack?</hi> It is a Parrot, ſays the Boy; and if you will give me your Basket
+<pb facs="tcp:171019:4"/>with Fiſh, I will give you my Parrot; The Fool ſoon agreed to this motion, and took the Mag-pye, and home very joyfully he went, but not come there till four of the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock in the Afternoon, the Cook (who had fretted ſufficiently for want of the Fiſh for his Maſters Dinner) met him in the back yard: <hi>You Rogue,</hi> ſaith he, <hi>where is the fiſh?</hi> O, ſays Iack, I have a fine Parrot here; is not this a fine Parrot: <hi>Sir<g ref="char:EOLhyphen"/>rah,</hi> ſays the Cook, (ſmilingly) <hi>where is the fiſh?</hi> I gave it to the Boy, ſaith Iack, for this Parrot, was not that well done Mr. Cook? The Cook and the reſt of the Company could not forbear laughing, and ſaid no more to Him.</p>
+            <div type="part">
+               <head>How <hi>Iack</hi> and the Taylor lay together, and how <hi>Iack</hi> one morning was found ſet on ſtride a great high beam in the Chamber, and the Taylor found dead in his Bed, with his Neck broke.</head>
+               <p>THis Knight where Iack lived kept a poor Taylor in the houſe, with whom they lodged the Fool.</p>
+               <p>One morning they wondred that the
+<pb facs="tcp:171019:4"/>Taylor nor Iack did not come down, one of the Servants went up, and find<g ref="char:EOLhyphen"/>ing the Chamber-door faſt, he called to them, but Iack only anſwered him; and not coming to the door the ſervant ran down ſtairs again and called others of his fellows to go with him to ſee what the matter was, who breaking open the door, they found the Taylor dead in his Bed, with his neck broke, and the fool ſet aſtride upon a high beam where he could not come without help; they were much ſurprized, and asked Iack how this came to paſs? The D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vil, ſays Iack, did come up ſtairs, Clink, Clink, Clink, and opened our Cham<g ref="char:EOLhyphen"/>ber door, and came to my ſide; and I cry d, good Devil don't take me, take the Taylor, ſo the Devil went to the Taylor, and broke his Neck, and ſet me upon the beam. This was ſtrictly ex<g ref="char:EOLhyphen"/>amined by ſeveral Iuſtices, and after<g ref="char:EOLhyphen"/>wards by the Bench at <hi>Chelmsford,</hi> but adding or diminiſhing; and ſo continu<g ref="char:EOLhyphen"/>ed till his dying day, and was never concerned at his Examination.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171019:5"/>
+               <head>How <hi>Iack</hi> was accuſed by a Wench to be t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e father of her Baſtard.</head>
+               <p>A Winch being got with Child and not well knowing who was the Father of it, ſhe being had before a Iu<g ref="char:EOLhyphen"/>ſtice of Peace and Examined, ſhe ſaid it to <hi>John Frank,</hi> ſo poor <hi>Jack</hi> was ſent for, the Iuſtice asking him if he was the Father of that Wenches Child? The fool was ſo innocent that he knew not the meaning thereof, but ſtood ſta<g ref="char:EOLhyphen"/>ring and laughing, ſhaking one or other by the Hand that ſtood by.</p>
+               <p>The Iuſtice then ſaid unto him, Are you Guilty or not Guilty <hi>Jack?</hi> I gu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld<g ref="char:EOLhyphen"/>ed ſaith <hi>Jack;</hi> guilded all the Country over: the Iuſtice perceiving the poor Soul did not underſtand his Examina<g ref="char:EOLhyphen"/>tion, ſaid to the Wench, <hi>Hoſewife, you muſt ſeek another father for your Child;</hi> So taking order for her puniſhment, <hi>Jack</hi> was freed and went laughing a<g ref="char:EOLhyphen"/>way; and alſo all the Company.</p>
+            </div>
+            <div type="part">
+               <head>HOw <hi>Jack</hi> deceived a sexton, and got in<g ref="char:EOLhyphen"/>to a Church to Preach.</head>
+               <pb facs="tcp:171019:5"/>
+               <p> EVery one was willing to humour this Fool, and one day <hi>Jack</hi> had a mind, to be fine, and he deſired a Ser<g ref="char:EOLhyphen"/>vant who had a Sute to ſpare, to lend him a black Sute and Cloak; the man ſmiling, ſaid unto him, <hi>what would you do with it, Sirrah?</hi> I muſt go and preach ſays <hi>Jack.</hi> The ſervant having a great mind to ſee what the Fool would do, conſented to it: So <hi>Jack</hi>'s Calve skin Sute was plucked off and the black one put on, with Stockings, Shooes, Band, Hat, Cloak and Gloves, all very ſuitable, his Hands and Face being waſhed clean, and his Head c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d he looked not like a Fool at all: when he was thus accoutred, the Servants asked him what he would do? I will go to Preach, ſaith he; they not believing that the Fool would attempt ſuch a thing, but that it was ſome idle fancy, which he had many, gave him leave to go alone in<g ref="char:EOLhyphen"/>to the Park, and would not go with him for fear of ſpoyling the ſport, i<g ref="char:EOLhyphen"/>magining that they ſhould hear by one or other ſome pritty Ieſt of him: But <hi>Jack</hi> was too cunning for them
+<pb facs="tcp:171019:6"/>all, and got him indeed to a Vil<g ref="char:EOLhyphen"/>lage about ſix miles off, and enquired for the Sextons Houſe, which when he had found, he knocked at the door, the Sexton himſelf chancing to come to open the door, and ſeeing as he thought a Miniſter, did make him a low reve<g ref="char:EOLhyphen"/>rence: Art thou the Sexton; ſaith Iack? <hi>Yes, Sir,</hi> ſaith the Sexton, prithee open the Church door ſaid Iack, and toll the Bell, for I muſt preach here this after<g ref="char:EOLhyphen"/>noon; <hi>I will, Sir,</hi> ſaid the Sexton: ſo the poor man not perceiving who he was, went preſently and opened the Church door (Iack ſollowing him) the people haring the Bell toll, came to the Sex<g ref="char:EOLhyphen"/>ton to know what the matter was, Iack ſitting ſoberly in the Desk, with the great books before him: <hi>That Gentle<g ref="char:EOLhyphen"/>man,</hi> ſaid the Sexton, <hi>is to preach this afternoon.</hi> With that the people made haſt to the Church, and when Iack ſaw a good number of them, he pluckt, off his Hat, and turned over the Leaves firſt of one book, and then the other, for a little ſpace, and then gets him up in<g ref="char:EOLhyphen"/>to the Pulpit very devoutly, and kneels down as though he would pray, the people wondring all this while that the Parſon did not read nor pray while
+<pb facs="tcp:171019:6"/>he was in the Desk, they fixed their eyes upon him, and gave attention to him, what they ſhould hear from the Pulpit. Iack as he kneeled, mumbled to himſelf, and lifted up his eyes, ſtill waiting to hear the Hrayer: Iack riſes up, &amp; having a Common-prayer-book in his hand, he opens it, and turning over the leades, he ſpeaks thus to them: <hi>Beloved,</hi> ſaith he, <hi>my Text is in the four and fortieth Chapter of St.</hi> Iohn <hi>and the hundred Verſe:</hi> then ſhutting the book again, he begins to preach, as he call'd it, ſpeaking ſuch gibberiſh and nonſenſe as did amaze the people: ſome turned over the leaves of their books backward and forward to find the Cext, others liſtned to hear what he ſaid, ſome thought that he had ſpoken <hi>Latin</hi> &amp; <hi>Greek,</hi> that they could not un<g ref="char:EOLhyphen"/>derſtand; thus for a little time they ex<g ref="char:EOLhyphen"/>pected, but at length they found them<g ref="char:EOLhyphen"/>ſelves deceived, and that it was the Fool, which all had known but for his black Cloaths. So they went all home much aſhamed to ſee themſelves be<g ref="char:EOLhyphen"/>guiled by a Fool: Iack was very proud that he had preach'd, and went to his Maſters Houſe, where every one was joy'd, for they wondred what was be<g ref="char:EOLhyphen"/>come
+<pb facs="tcp:171019:7"/>of him, but when they heard what he had done, they laughed heartily.</p>
+            </div>
+            <div type="part">
+               <head>How <hi>Iack</hi> deceived Mr. <hi>Sorrel,</hi> a Rich Yeoman of Pudings and Links, which hung up in the Chimney.</head>
+               <p>
+                  <hi>JACK</hi> was often upon the ramble, and one day he went to this Yeomans Houſe, who loved much to make ſport with him: the Servants being all bu<g ref="char:EOLhyphen"/>ſie, ſome in the Barn, and ſome abroad among the Cattel, there was none but he and the Fool all alone. Mr. <hi>Sorrel</hi> ſays <hi>Jack,</hi> ſhall us play at Blindmans-buff; ay ſaith he, with all my heart, <hi>Jack,</hi> you ſhall be blinded, ſays <hi>Jack,</hi> that I will, <hi>Jack,</hi> ſaith he; ſo pinning a Nap<g ref="char:EOLhyphen"/>kin about his Head and Eyes, now turn about ſays <hi>Jack;</hi> but you ſee Mr. <hi>Sorrel,</hi> you ſee no good faith <hi>Jack,</hi> ſaith he, I do not ſee: <hi>Jack</hi> ſhuffled up and down the Ritchin alſo for to catch him, and ſtill cry'd, you ſee Mr. <hi>Sorrel,</hi> you ſee; but when the Fool perceived indeed that he did not ſee, he went to the Chimney, and whipt down ſome of the Puddings into his Pockets, and ſo he did full as he came to that end of the room, till he had filled both his Pock<g ref="char:EOLhyphen"/>ets and Breeches with them, which
+<pb facs="tcp:171019:7"/>was ſoon done, though they were large, for he was very quick. The doors being open, <hi>Jack</hi> runs away ſo faſt as he could, leaving the good man blinded, who wondring that he did not hear the Fool, cryed out, <hi>Jack,</hi> Jack, but finding no anſwer, he pull'd off the Napkin, and ſaw the Fool was gone, &amp; that he had taken many of his Links and Puddings with him, he was ſo en<g ref="char:EOLhyphen"/>raged, that he ſent his Blood-Hound after him, which when Iack did per<g ref="char:EOLhyphen"/>ceive that the Dog came after him, he took a Pudding and flung to the Dog: the Dog ſmelling to the Pudding, Iack gained ground the while and ſtill as the Dog followed him he threw a pud<g ref="char:EOLhyphen"/>ding back, and ſo he did till he had got into a Houſe.</p>
+               <p>This was ſoon ſpread abroad to the great ſhame and vexation of the honeſt man, that he could not endure to hear of it.</p>
+               <p>It fortun'd long time after that Mr. <hi>Sorrel</hi> among other Tenants did go to pay his duty and reſpects to the Lord where Iack then lived: Iack eſpying him, went up and told his Lady, that Mr. <hi>Sorrel</hi> was come: the Lady being afraid that the Fool ſhould offend him
+<pb facs="tcp:171019:8"/>by ſpeaking of the Puddings, threat<g ref="char:EOLhyphen"/>ning him ſaying, <hi>Sirrah, if you ſpeak one word of the Pudding, you ſhall be Whipt:</hi> No ſays Iack, I will not.</p>
+               <p>But when the Lord and Lady was at Dinner; and Mr. <hi>Sorrel</hi> and the reſt with them, Iack goes to Mr. <hi>Sorrel,</hi> &amp; ſhakes him by the hand, ſaying, <hi>how do you do Mr.</hi> Sorrel, <hi>how do you?</hi> then whiſper<g ref="char:EOLhyphen"/>ing as it were to him, but ſo loud that all the company did hear him; Mr. <hi>Sorrel,</hi> ſays <hi>Jack, not a word of the Pud<g ref="char:EOLhyphen"/>ding,</hi> Mr. <hi>Sorrel;</hi> at which they all could not forbear laughing, but the good man was ſo much aſhamed, that the company were ſorry to ſee, and ne<g ref="char:EOLhyphen"/>ver came there no more. Ever ſince it is a by word to ſay <hi>(not a word of the Pudding.)</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How <hi>Iack</hi> ſerved a Gentleman who had a great Noſe.</head>
+               <p>THere was a Gentleman who came often to this Lords Table, who had a very great Noſe, which every one took notice of, and in his abſence would ſpeak of him: <hi>Jack</hi> hearing them he would alſo be talking of the great noſe.</p>
+               <p>Now fearing leſt he ſhould ſpeak of it at any time to the Gentleman, he
+<pb facs="tcp:171019:8"/>was ſoundly chidden for prating, ſo that they thought he would not dare to men<g ref="char:EOLhyphen"/>tion it any more. But one day this Gentleman being there at Dinuer, Iack ſtands by him (and peeping in his face) calls to the Lord and Lady, ſaying, do you hear my Lord? do you hear Madam? do you ſee this Gentleman here, he has no noſe at all: at which every one laughed heartily, but the Gentleman was much aſhamed.</p>
+            </div>
+            <div type="part">
+               <head>How <hi>Iack</hi> hired a Servant to dwell with him.</head>
+               <p>
+                  <hi>JACK</hi> having borrowed a Scarlet Cloak, a fine laced Band, and a good Hat, he puts them on, throwing his Cloak over one ſhoulder, ſo that it quite hid his Calve-skins, and goes into the Park, where many people paſ<g ref="char:EOLhyphen"/>ſed thorow upon ſufferance, and there Iack walks up and down very proud<g ref="char:EOLhyphen"/>ly. There comes a poor man to him begging (thinking he had been ſome brave Gentleman) I will give you nothing, ſays Iack, why don't you go to work; ſo I would, Sir, ſaith the poor man, if I could get any; why do you not go to Service, ſaith Iack? If it pleaſe you, Sir, I cannot tell where
+<pb facs="tcp:171019:9"/>to get a Service, what can you do, ſaith Iack? I can do any thing, an<g ref="char:EOLhyphen"/>ſwered the man, can you pump Wa<g ref="char:EOLhyphen"/>ter, and carry Wood, and waſh Bucks, ſays Iack: Yes, Sir, ſays the beggar, that's well, ſays Iack, what Wages muſt I give you? what you pleaſe Sir, ſaid the beggar: then ſaid Iack, I'le give you three pound a year, I thank your Worſhip, ſaid he; Come home with me, ſaid the Fool; ſo Iack, comes home to his Lords houſe, the Man follows him, and there he ſets him down in the Porch, and asks the Man divers Queſtions; at laſt comes the Lords ſteward, and hearing Iack call to the Man, and ordering him his buſineſs ſtands a while to hear, then ſteps to Iack, ſaying, What now Iack, have you hired a ſervant this Morn<g ref="char:EOLhyphen"/>ing? yes, ſays the Fool, ſhaking his Ears and laughing; the poor man then perceiving that he was deceived, he did not know which way to look; but how<g ref="char:EOLhyphen"/>ever, though he were miſtaken in his Maſter, yet he obtained a bountiful Alms from the Lord, who with the reſt of the Family were dery much pleas'd with the conceit of the Fool.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:171019:9"/>
+               <head>How <hi>Iack</hi> complained of <hi>Mary Dover,</hi> ſhe would not make him clean, when ha<g ref="char:EOLhyphen"/>ving taken Phyſick, he had bewrayed him<g ref="char:EOLhyphen"/>ſelf.</head>
+               <p>THere was alſo in this Lords Houſe a Woman Fool, whoſe name was <hi>Mary Dover,</hi> and ſhe was imployed by e<g ref="char:EOLhyphen"/>very one to do all the meaneſt Offices. <hi>Jack</hi> had always a delinght to take all or any kind of Phyſick he could get; one of the Family had one day given him a Purge to take, his Wife (as he did call her) being the Landry Maid, called him to his uſual work to beat the buck, poor <hi>Jack</hi> pull'd off his Doublet, as at other times, and ſtood beating the Linnen till he bewrayed himſelf, ſo that it ran down to his Heels: the Fool finding his breech<g ref="char:EOLhyphen"/>es ad ſtackings in ſuch a caſe, fell a cry<g ref="char:EOLhyphen"/>ing aloud, and ſtamping for <hi>Mary Dover,</hi> to make him clean, but ſhe refuſing to do it, he comes crying into the Parlor, in this ſhitten condition, where his Lady ſat at Supper, complaining to her, that he had taken Phyſick, and <hi>Mary Dover</hi> would not make him clean; the Lady with the reſt of the company could not ſit at the Table for the ſtink, yet could
+<pb facs="tcp:171019:10"/>not forbear laughing to ſee him ſo fur<g ref="char:EOLhyphen"/>prized, and crying ſo grievouſly, but his preſence at that time not to be endured, ſhe commanded one of the Servants to le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him forth the room, and to cauſe <hi>Mary Dover</hi> to do that office, for none elſe would clean him; and then he came in again and made very good ſport. The poor Fool being very hungry after his phyſick, every one gave him ſome meat, which he d d eat ſo greedily as though he would choak himſelf: they ever and a<g ref="char:EOLhyphen"/>non would ask him queſtions, and his mouth was ſo full he could not ſpeak, and his Chaps ſo greaſie, as if they had been in a dripping pan: When he had eaten pretty well, he wanted ſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e drink, which was given him, good Ale; and t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <hi>Jack</hi>'s tongue began to run freely, making many pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tty Ieſts by chance, for he could not do it otherwiſe.</p>
+            </div>
+            <div type="part">
+               <head>How <hi>Iack</hi> in his rambles went into an Inn at <hi>Witsford-Bridge,</hi> and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow he ſer<g ref="char:EOLhyphen"/>ved the people of the Houſe.</head>
+               <p>
+                  <hi>JAck</hi> having rambled about till he was very hungry, went into an Inn at <hi>Witsford-Bridge,</hi> and asked his hoſt what he ſhould have for his Supper? the Huſt knew that he was ſuch a Lords
+<pb facs="tcp:171019:10"/>Fool, thought he had money, offered him a good. Breaſt of Mutton, which was then ready roaſted, of which <hi>Jack</hi> was very glad, for he loved fat meat very well, ſo a Napkin being laid, and bread and drink brought, he ſat down ſoverly, to cat and drink. And when he had eat<g ref="char:EOLhyphen"/>en all, he asked what was to pay: they told him two and twenty pence for meat bread and drink: well, ſaid he (pulling out two b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſs farthings) here, ſaith he, pay your ſelf, &amp; give me th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſt again, they laughing asking him for more mo<g ref="char:EOLhyphen"/>ney, but he told them he had no more; nor indeed he had not, nor did he know braſs from gold or ſilver, ſo they let him go quietly.</p>
+            </div>
+            <div type="part">
+               <head>How <hi>Iack</hi> ſerved a Juſtice of Peace that jeſted with him.</head>
+               <p>A Iuſtice of Peace being one day at this Lords Table, who loved to jeſt with every one; <hi>Jack</hi> being in the room to make ſport and having then a new Calves skin ſuit on, red and white ſpot<g ref="char:EOLhyphen"/>ted, &amp; a young puppy in his arms, much of the ſame colour of his ſuit, ſaid to the Iuſtice, jogging him; is not this puppy like me; the Iuſtice turns him aſide to <hi>Jack,</hi> ſaying, <hi>Jack, it is very li<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e thee;</hi> now
+<pb facs="tcp:171019:11"/>there is, puppies <hi>Jack,</hi> ha, ha, ha, ſaith <hi>Jack,</hi> and ſo he goes with his puppy diwn ſtairs, for he could not eat while that was under his arm; preſently af<g ref="char:EOLhyphen"/>ter he came again inbto the dining room, and knocking the Iuſtice on the back with his fiſt, the Iuſtice turning him a<g ref="char:EOLhyphen"/>bout to <hi>Jack,</hi> looked a little angry? how is it Iuſtice, ſays <hi>Jack,</hi> are you angry? ſhake hands and be friends, the Iuſtice gave him his hand, which <hi>Jack</hi> ſhaked with both his hands, ſaying aloud and laughing. now thee is two fools, Iu<g ref="char:EOLhyphen"/>ſtice two fools, two fools, at which they all laught heartily, to fee this great wit affronted by a fool, eſpecially one Gen<g ref="char:EOLhyphen"/>tleman of quality, who but a few mi<g ref="char:EOLhyphen"/>nutes before this Iuſtice had abuſed by Jeſting; for he was of that temper that he would Ieſt, but never take none.</p>
+               <q>
+                  <l>It is not good to play with edged tools,</l>
+                  <l>Neither is it good to jeſt too much with fools</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>Here follows many pritty Sayings and Jeſts of <hi>Iack,</hi> which are very witty and worth obſerving.</head>
+               <p>
+                  <hi>JAck's</hi> Lord and Lady going forth one day in the Coach, <hi>Jack</hi> had obtained the favour to run by the Coach ſide, and upon the way they met another Lords
+<pb facs="tcp:171019:11"/>Coach, whoſe Gentleman riding by the Coach, and ſeeing <hi>Jack,</hi> puts off his Hat in deriſion, and bows himſelf, ſay<g ref="char:EOLhyphen"/>ing, I pray whoſe Fool are you? The Fool-preſently pulls off his Calve-skin Cap, and ſhakes his Ears, ſaying, I am my Lord <hi>M</hi>'s Fool: pray whoſe Fool are you: The Gentleman being thus anſwered was much aſhamed, and rode away, and <hi>Jack</hi> went his way.</p>
+               <p>
+                  <hi>Jack</hi> ſtanding by one time where ſome Gentlemen were talking, and hearing 'em talk of Round-heads, Round-heads ſaid <hi>Jack</hi> to himſelf, ay, <hi>Jack,</hi> ſaid one of them, what is a round-head? (now this Gentleman who askt him was a round<g ref="char:EOLhyphen"/>head, bat would not be thought one) what's a round-head, ſays <hi>Jack</hi> a round<g ref="char:EOLhyphen"/>head is one that has no with at all; give me your hand, Sir, ſays <hi>Jack;</hi> the Gen<g ref="char:EOLhyphen"/>tleman did ſo, ha, ha, ha, and ſhaked it, ſaying, there I mumpt you: the reſt laughed, he laughed, though he were vexed.</p>
+               <p>One Night his Lady being at Sup<g ref="char:EOLhyphen"/>per, <hi>Jack</hi> came into the room, bawling aloud, that he could not get the Coach<g ref="char:EOLhyphen"/>man to buy him a Chamber-pot: Ma<g ref="char:EOLhyphen"/>dam, ſaith he, the Coach-man wont buy me a pot, and I am tain to riſe in the
+<pb facs="tcp:171019:12"/>night, to make water in the yard, In my ſhirt, and I have got a Cough muſt I not have ſome Sugar-Candy Madam: the Lady laughed to think how ſeaſona<g ref="char:EOLhyphen"/>ble he was in his requeſt, but gave order to the Coach-man to buy him what he wanted.</p>
+               <p>In the time of the Ladies Lying-Inn, Iack found that he carried up more wood than at other times to the Chamber door, he having his Arms full of wood, throws it down, making a great noiſe therewith, ſaying to himſelf aloud, <hi>Pox take my Lady, I think ſhe burns more wood then her body is worth.</hi>
+               </p>
+               <p>One time <hi>Iack</hi> coming late to dinner in the Hall, and ſeein there was no room for him at the table, he runs forth, and comes preſently in again, ſaying, do you hear ſirs, the King is come into the back yard, with his Coach and ſix Horſes, and a great many men; they not knowing what to think, ran all out to ſee; in the mean time <hi>Iack</hi> ſets him down and carves for himſelf, they co<g ref="char:EOLhyphen"/>ming into the yard could ſee no body there, but laughed to think how the Fool had out-witted them.</p>
+               <p>He being asked one day what would become of him when he was dead, I
+<pb facs="tcp:171019:12"/>ſhall lye in the ground, ſaith he, till Gods Trumpet ſounds, and then ſhall I riſe again and go into Heaven. I, but what will you ſay ſaid one to him, when Gods Trumpet ſounds to call you be<g ref="char:EOLhyphen"/>fore him? he anſwered, God will not re<g ref="char:EOLhyphen"/>quire more then he hath given me: which words ſo unexpected, did much a<g ref="char:EOLhyphen"/>meze all that heard him.</p>
+               <p>He was duly morning and evening at prayers in the Chappel, though he had no underſta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, and every night in his Chamber, he would pray thus by himſelf.</p>
+               <p>Lord, ſaid he, thou knaweſt I can do nothing of my ſelf, Lord thou knoweſt I can do nothing; Lord have mercy up<g ref="char:EOLhyphen"/>on me, and help me.</p>
+               <p>He lived till about fourſco<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e years, and died in a K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ights houſe in <hi>E<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>field</hi>-Pariſh swhere he was handſomely bu<g ref="char:EOLhyphen"/>ried, and that knew him being very ſory for his death (poor innocent ſoul) who did no evil, than by evil examples.</p>
+               <p>There might be more ſaid of him, but that may ſerve for a ſecond part <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe Stories I hope will be the more plea<g ref="char:EOLhyphen"/>ing, becauſe they are true.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:171019:13"/>
+            <head>The Contents.</head>
+            <list>
+               <item>1. How <hi>Iack</hi> went to market with his Ma<g ref="char:EOLhyphen"/>ſters Caterer, and how he ſold a Basket of Fiſh for a Mag-Pye.</item>
+               <item>2. How <hi>Iack</hi> and the Taylor lay together and how <hi>Iack</hi> one morning was found ſet on ſtride a great high beam in the Chamber, and the Taylor found dead in his bead, with his neck broke.</item>
+               <item>3. How <hi>Iack</hi> was accuſed by a Wench t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be the father of her Child.</item>
+               <item>4. How <hi>Iack</hi> deceived a Sexton, and got into a Church to preach.</item>
+               <item>5. How <hi>Iack</hi> deceived Mr. <hi>Sorrel</hi> a rich Yeoman, of Puddings and Links which hung up in his Chimney.</item>
+               <item>6. How <hi>Iack</hi> ſerved a Gentleman who had a great Noſe.</item>
+               <item>7. How <hi>Iack</hi> hired a Servant to dwell wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him.</item>
+               <item>8. How <hi>Iack</hi> complained of <hi>Mary Do<g ref="char:EOLunhyphen"/>ver</hi> ſhe would not make him clean, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he had bewrayed himſelf.</item>
+               <item>9. How <hi>Iack</hi> in his rembles went to <hi>Witſ<g ref="char:EOLunhyphen"/>ford-Bridge,</hi> and how he ſerved the peo<g ref="char:EOLhyphen"/>ple of the Houſe.</item>
+               <item>10. How <hi>Iack</hi> ſerved a Iuſtice of the Pea<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> who jeſted with him.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171019:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
